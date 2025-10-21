@@ -1,8 +1,8 @@
 Real-Time Integrated Pest Detection and Trapping
 An early test video of the system can be viewed at the following link:  
-Early Test Video
+[Early Test Video](https://b23.tv/pIzykqW)
 The test models used in the paper can be downloaded from the following link:  
-Google Drive - Test Models
+[Google Drive - Test Models](https://drive.google.com/drive/folders/1g-qKiZePG70Ukf_2LO_mLcqRUzLe-4Fc?usp=drive_link)
 The folder includes the following files:
 ⦁	yolov13_C2-MANet_GhostConv_P3.engine
 ⦁	yolov13_C2-MANet_GhostConv_P3.onnx
