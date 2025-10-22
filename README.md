@@ -3,6 +3,8 @@
 An early test video of the system can be viewed at the following link:  
 [Early Test Video](https://b23.tv/pIzykqW)
 
+The file pest_net_v4.m provides the MATLAB implementation for multi-device deployment modeling.
+
 The test models used in the paper can be downloaded from the following link:  
 [Google Drive - Test Models](https://drive.google.com/drive/folders/1g-qKiZePG70Ukf_2LO_mLcqRUzLe-4Fc?usp=drive_link)
 
